@@ -1,5 +1,4 @@
 //add feature
-
-function addName(){
-    console.log("Soumik");
+function addRole(){
+    console.log("Web Dev");
 }
