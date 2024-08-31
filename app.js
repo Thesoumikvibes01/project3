@@ -5,3 +5,6 @@ function addSub(){
 function addRole(){
     console.log("web dev");
 }
+function addProject(){
+    console.log("hotel Management")
+}
